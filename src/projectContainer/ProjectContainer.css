@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
+
+.projectContainer {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    justify-content: center;
+    margin: 200px;
+    align-items: center;
+
+}
+
+.projectContainer > h1 {
+    padding-bottom: 15px;
+}
+
+.projectContainer > p {
+    padding-bottom: 25px;
+}
+
+.projectContainer_projects {
+    display: flex;
+    justify-content:center ;
+    width: 60vw;
+    margin-top: 50px;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,8 @@
+.topContainer{
+   background: url('../Images/dbed1eec-6da9-456b-8705-6e238ccc3715\ \(1\).jpeg');
+   height: 100vh;
+   background-position: center;
+   background-size: contain;
+   background-repeat: no-repeat;
+   box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.25);
+}
